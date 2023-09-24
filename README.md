@@ -1,2 +1,2 @@
 # ForInterviewPurpoe
-Codes and projects to view works to interviwers
+Codes and projects to present my Technical Knowledge works to interviewers
